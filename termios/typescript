@@ -1,0 +1,19 @@
+Script started on Tue 26 Apr 2016 12:04:24 PM CST
+ ___________________________________
+/ [32m题目:《题西林壁》[m                 \
+| [33m作者:苏轼（１０３６－１１０１）[m          |
+\ 横看成岭侧成峰，远近高低各不同。 不识庐山真面目，只缘身在此山中。 /
+ -----------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+[1m[7m%[27m[1m[0m                                                                                                                                                                          [0m[27m[24m[J[01;32m➜  [36mtermios[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [Klls
+[0m[01;32mcsize[0m    ctermid.c  echo.c     getpass.o  isatty.o  [01;32msettty[0m    [01;32mt_getpass[0m    [01;32mt_isatty[0m    [01;32mt_raw[0m    [01;32mt_ttyname[0m    ttyname.c  typescript  winch.c
+csize.c  ctermid.o  getpass.c  isatty.c   Makefile  settty.c  t_getpass.c  t_isatty.c  t_raw.c  t_ttyname.c  ttyname.o  [01;32mwinch[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                          [0m[27m[24m[J[01;32m➜  [36mtermios[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [Ke ees
+zsh: command not found: es
+[1m[7m%[27m[1m[0m                                                                                                                                                                          [0m[27m[24m[J[01;31m➜  [36mtermios[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [Keexit
+
+Script done on Tue 26 Apr 2016 12:04:38 PM CST
